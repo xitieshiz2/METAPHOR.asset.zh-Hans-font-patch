@@ -1,0 +1,37 @@
+{
+  "ModId": "METAPHOR.asset.zh-Hans-font-patch",
+  "ModName": "\u6697\u55BB\u5E7B\u60F3\uFF1AReFantazio \u7B80\u4F53\u4E2D\u6587\u5B57\u4F53\u4F18\u5316\u8865\u4E01",
+  "ModAuthor": "\u5E0C\u94C1\u77F3z",
+  "ModVersion": "1.0.0",
+  "ModDescription": "\u4F18\u5316\u300A\u6697\u55BB\u5E7B\u60F3\uFF1AReFantazio\u300B\u7B80\u4F53\u4E2D\u6587\u672C\u5730\u5316\u7684\u5B57\u4F53\u663E\u793A\u6548\u679C",
+  "ModDll": "",
+  "ModIcon": "icon.png",
+  "ModR2RManagedDll32": "",
+  "ModR2RManagedDll64": "",
+  "ModNativeDll32": "",
+  "ModNativeDll64": "",
+  "Tags": [],
+  "CanUnload": null,
+  "HasExports": null,
+  "IsLibrary": false,
+  "ReleaseMetadataFileName": "METAPHOR.asset.zh-Hans-font-patch.ReleaseMetadata.json",
+  "PluginData": {
+    "GitHubRelease": {
+      "UserName": "xitieshiz2",
+      "RepositoryName": "METAPHOR.asset.zh-Hans-font-patch",
+      "UseReleaseTag": true,
+      "AssetFileName": "Mod.zip"
+    }
+  },
+  "IsUniversalMod": false,
+  "ModDependencies": [
+    "crifs.v2.hook",
+    "reloaded.sharedlib.hooks",
+    "Reloaded.Memory.SigScan.ReloadedII"
+  ],
+  "OptionalDependencies": [],
+  "SupportedAppId": [
+    "metaphor.exe"
+  ],
+  "ProjectUrl": ""
+}
